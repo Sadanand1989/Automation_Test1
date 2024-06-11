@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-30T16:25:40 IST" name="Default suite" finished-at="2024-05-30T16:25:40 IST" duration-ms="85">
+    <groups>
+    </groups>
+    <test started-at="2024-05-30T16:25:40 IST" name="Default test" finished-at="2024-05-30T16:25:40 IST" duration-ms="85">
+      <class name="seleniumclass.TestClass">
+        <test-method is-config="true" signature="Testbefore()[pri:0, instance:seleniumclass.TestClass@2eae8e6e]" started-at="2024-05-30T16:25:40 IST" name="Testbefore" finished-at="2024-05-30T16:25:40 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testbefore -->
+        <test-method signature="test()[pri:0, instance:seleniumclass.TestClass@2eae8e6e]" started-at="2024-05-30T16:25:40 IST" name="test" finished-at="2024-05-30T16:25:40 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="Testafter()[pri:0, instance:seleniumclass.TestClass@2eae8e6e]" started-at="2024-05-30T16:25:40 IST" name="Testafter" finished-at="2024-05-30T16:25:40 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testafter -->
+      </class> <!-- seleniumclass.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

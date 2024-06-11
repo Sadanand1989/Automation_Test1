@@ -1,0 +1,36 @@
+[INFO ] 2024-05-28 22:49:10.535 [main] LoggerTest - Maximize the window
+[INFO ] 2024-05-28 22:49:10.539 [main] LoggerTest - Implicit wait 
+[INFO ] 2024-05-28 22:49:12.386 [main] LoggerTest - URL navigated
+[INFO ] 2024-05-28 22:49:12.386 [main] LoggerTest - Email entered
+[INFO ] 2024-05-28 22:49:12.530 [main] LoggerTest - Password Entered
+[INFO ] 2024-05-28 22:49:12.823 [main] LoggerTest - Browser closed
+[INFO ] 2024-05-29 13:34:10.064 [main] LoggerTest - Maximize the window
+[INFO ] 2024-05-29 13:34:10.082 [main] LoggerTest - Implicit wait 
+[INFO ] 2024-05-29 13:34:11.058 [main] LoggerTest - URL navigated
+[INFO ] 2024-05-29 13:34:11.059 [main] LoggerTest - Email entered
+[INFO ] 2024-05-29 13:34:11.247 [main] LoggerTest - Password Entered
+[INFO ] 2024-05-29 13:34:11.972 [main] LoggerTest - Browser closed
+[DEBUG] 2024-05-29 21:13:34.874 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-05-29 21:13:34.889 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-05-29 21:13:34.893 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-05-29 21:15:38.896 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-05-29 21:15:38.909 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-05-29 21:15:38.913 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-05-29 21:15:39.140 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-05-29 21:15:39.155 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-05-29 21:15:39.157 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-05-29 21:18:01.329 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-05-29 21:18:01.352 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-05-29 21:18:01.370 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-05-30 16:28:28.094 [main] LoggerTest - Maximize the window
+[INFO ] 2024-05-30 16:28:28.101 [main] LoggerTest - Implicit wait 
+[INFO ] 2024-05-30 16:28:29.193 [main] LoggerTest - URL navigated
+[INFO ] 2024-05-30 16:28:29.193 [main] LoggerTest - Email entered
+[INFO ] 2024-05-30 16:28:29.359 [main] LoggerTest - Password Entered
+[INFO ] 2024-05-30 16:28:29.677 [main] LoggerTest - Browser closed
+[INFO ] 2024-05-30 16:29:41.210 [main] LoggerTest - Maximize the window
+[INFO ] 2024-05-30 16:29:41.268 [main] LoggerTest - Implicit wait 
+[INFO ] 2024-05-30 16:29:42.253 [main] LoggerTest - URL navigated
+[INFO ] 2024-05-30 16:29:42.341 [main] LoggerTest - Email entered
+[INFO ] 2024-05-30 16:29:42.459 [main] LoggerTest - Password Entered
+[INFO ] 2024-05-30 16:29:42.921 [main] LoggerTest - Browser closed
